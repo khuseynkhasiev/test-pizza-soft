@@ -1,0 +1,11 @@
+.employees {
+    margin-top: 20px;
+    overflow-x: auto;
+    &__title {
+        text-align: center;
+    }
+    &__list {
+        border: 3px solid black;
+        padding: 10px;
+    }
+}

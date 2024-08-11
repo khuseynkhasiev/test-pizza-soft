@@ -1,0 +1,9 @@
+.employee {
+    cursor: pointer;
+}
+
+.employee td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    vertical-align: bottom; // Добавлено для выравнивания по нижнему краю
+}

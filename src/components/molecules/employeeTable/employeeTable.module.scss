@@ -1,0 +1,12 @@
+.employeeTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.employeeTable th,
+.employeeTable td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    vertical-align: bottom; // Добавлено для выравнивания по нижнему краю
+    text-align: left;
+}
